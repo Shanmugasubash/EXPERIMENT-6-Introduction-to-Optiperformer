@@ -69,23 +69,17 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
+<img width="1280" height="718" alt="WhatsApp Image 2026-04-18 at 11 13 26 AM" src="https://github.com/user-attachments/assets/bbde0f28-333f-4609-9aca-f5fe9f94a905" />
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
 
 ---
 
 ## Graphs
+<img width="1920" height="1080" alt="Screenshot 2026-04-18 141620" src="https://github.com/user-attachments/assets/b1faa06c-c525-47a9-83c4-f1c24d64c094" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-18 141512" src="https://github.com/user-attachments/assets/95d8ff31-021e-46ea-a7b9-8c1beeaab925" />
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
 ---
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+The OptiPerformer simulation of the optical communication system was successfully executed, and system performance was analyzed for different fiber lengths. It was observed that as fiber length increased, the received power decreased and BER increased, degrading the overall signal quality.
